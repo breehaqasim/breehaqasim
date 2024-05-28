@@ -23,7 +23,7 @@ Here are some of the projects I've worked on:
 Open-source projects particularly those focused on educational technology and community-driven initiatives.
 
 ## 📫 How to reach me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your_linkedin_username)](https://www.linkedin.com/in/breehaqasim/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your_linkedin_username)](https://www.linkedin.com/in/breehaqasim/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/your_instagram_username)](https://www.instagram.com/graphicsbybreeha?igsh=MXRocm4zcjM4czQ1Mw==)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:your_email_address)](mailto:breehaaqasim@gmail.com)
 
