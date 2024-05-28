@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Breeha Qasim 👋
 
 <!--
 **breehaqasim/breehaqasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I'm Breeha Qasim! 👋 I’m a Computer Science student at Habib University with a strong passion for programming and design. Skilled in Python, C++, SQL, and web development technologies like HTML, CSS, and JavaScript, I thrive on building software that not only performs well but is also intuitive to use.
+I’m a Computer Science student at Habib University with a strong passion for programming and design. Skilled in Python, C++, SQL, and web development technologies like HTML, CSS, and JavaScript, I thrive on building software that not only performs well but is also intuitive to use.
 
 🔍 I'm currently working on several academic projects, including an innovative university admission tracker system and a digital Tic Tac Toe game that showcases my skills in digital logic design and user experience. I specialize in merging functionality with aesthetic appeal, ensuring my applications are both effective and engaging.
 
