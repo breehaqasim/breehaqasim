@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Breeha Qasim! 👋 </h1>
 
 ## 🚀 About Me
-I'm a Computer Science student at Habib University, deeply passionate about blending technical expertise with creative design to create impactful software solutions. I specialize in Python, C++, SQL, and front-end technologies including HTML and CSS.
+I'm a dedicated Computer Science student at Habib University with a passion for blending technology with creative design to create impactful solutions. My academic and project experiences have allowed me to explore a variety of industries and roles, where I've developed a deep appreciation for the power of technology in transforming ideas into reality.
 
 ## 🛠 Languages and Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
