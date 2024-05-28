@@ -1,4 +1,4 @@
-# Hello, I'm Breeha Qasim! 👋
+<h1 align="center"> Hello, I'm Breeha Qasim! 👋 </h1>
 
 ## 🚀 About Me
 I'm a Computer Science student at Habib University, deeply passionate about blending technical expertise with creative design to create impactful software solutions. I specialize in Python, C++, SQL, and front-end technologies including HTML and CSS.
