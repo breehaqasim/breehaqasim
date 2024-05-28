@@ -4,7 +4,7 @@
 I'm a Computer Science student at Habib University, deeply passionate about blending technical expertise with creative design to create impactful software solutions. I specialize in Python, C++, SQL, and front-end technologies including HTML and CSS.
 
 ## 🛠 Languages and Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<!--![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Qt Designer](https://img.shields.io/badge/Qt_Designer-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -12,7 +12,18 @@ I'm a Computer Science student at Habib University, deeply passionate about blen
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)-->
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white" />
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52.svg?&style=flat&logo=qt&logoColor=white" />
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?&style=flat&logo=canva&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=figma&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=css3&logoColor=white" />
+</p>
 
 ## 🔥 Projects
 Here are some of the projects I've worked on:
