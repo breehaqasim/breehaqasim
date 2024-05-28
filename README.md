@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, I'm Breeha Qasim! 👋 I’m a Computer Science student at Habib University with a strong passion for programming and design. Skilled in Python, C++, SQL, and web development technologies like HTML, CSS, and JavaScript, I thrive on building software that not only performs well but is also intuitive to use.
+
+🔍 I'm currently working on several academic projects, including an innovative university admission tracker system and a digital Tic Tac Toe game that showcases my skills in digital logic design and user experience. I specialize in merging functionality with aesthetic appeal, ensuring my applications are both effective and engaging.
+
+🌱 I’m on a continuous learning path, always exploring new technologies and methodologies to enhance my programming skills and contribute more effectively to my projects.
+
+👥 I'm keen on collaborating on open source projects and am always open to connecting with other tech enthusiasts and developers. Feel free to reach out if you’re interested in collaborating or if you have any projects you think could use my skill set!
+
+💡 Interested in seeing what I’m working on? Take a look at my repositories or visit my LinkedIn to connect on professional opportunities.
