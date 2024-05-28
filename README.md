@@ -3,11 +3,14 @@
 ## 🚀 About Me
 I'm a Computer Science student at Habib University, deeply passionate about blending technical expertise with creative design to create impactful software solutions. I specialize in Python, C++, SQL, and front-end technologies including HTML and CSS.
 
-## 🛠 Skills
-- **Programming Languages:** Python, C++, SQL
-- **Web Development:** HTML, CSS
-- **Tools:** MongoDB, Canva, DB Designer
-- **Design:** Proficient in graphic design with a focus on creating intuitive and engaging user interfaces.
+## 🛠 Languages and Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Qt Designer](https://img.shields.io/badge/Qt_Designer-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🔥 Projects
 Here are some of the projects I've worked on:
