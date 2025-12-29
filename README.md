@@ -69,6 +69,7 @@ https://github.com/breehaqasim/Pacman-Pursuit---OOP
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breehaqasim)
 
 
+
 ## 🌱 Currently Exploring
 - Applied NLP and AI systems  
 - Scalable backend development with modern databases  
