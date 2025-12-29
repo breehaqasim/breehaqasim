@@ -65,8 +65,9 @@ https://github.com/breehaqasim/Pacman-Pursuit---OOP
 - Learn HTML, CSS, JavaScript – Codecademy  
 - Fundamentals of Digital Marketing – Google
 
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=breehaqasim&show_icons=true&theme=default)
+## 🔥 Contribution Activity
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breehaqasim)
+
 
 ## 🌱 Currently Exploring
 - Applied NLP and AI systems  
