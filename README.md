@@ -74,8 +74,6 @@ https://github.com/breehaqasim/Pacman-Pursuit---OOP
 ## 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=breehaqasim&layout=compact&hide=jupyter%20notebook&theme=github_dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=breehaqasim&label=Profile%20Views)
-
 
 ## 🌱 Currently Exploring
 - Applied NLP and AI systems  
