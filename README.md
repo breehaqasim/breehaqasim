@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Full-Stack Developer | NLP & Graph Data Enthusiast | Neo4j Certified</h3>
 
 ## 🚀 About Me
-I’m a Computer Science student at **Habib University** (CGPA: 3.55, 80% Merit-Based Scholarship) with strong interests in **full-stack development**, **data-driven systems**, and **applied AI**. I enjoy building solutions that combine solid engineering with clean, user-focused design.
+I’m a Computer Science student at **Habib University** (CGPA: 3.57, 80% Merit-Based Scholarship) with strong interests in **full-stack development**, **data-driven systems**, and **applied AI**. I enjoy building solutions that combine solid engineering with clean, user-focused design.
 
 My experience spans developing a custom **DBMS for KVTC**, contributing to **Operating Systems lab curriculum design**, and working on academic projects in **Natural Language Processing, Graph Data Science, and algorithms**. I’m particularly interested in how modern software systems scale using structured data, intelligent workflows, and practical AI.
 
