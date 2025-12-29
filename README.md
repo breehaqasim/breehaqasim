@@ -66,13 +66,16 @@ https://github.com/breehaqasim/Pacman-Pursuit---OOP
 - Fundamentals of Digital Marketing – Google
 
 ## 📊 Contribution Activity
-![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breehaqasim&theme=github_dark)
+![Contribution Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breehaqasim&theme=github_dark)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=breehaqasim&show_icons=true&count_private=true&include_all_commits=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=breehaqasim&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
 
 ## 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=breehaqasim&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=breehaqasim&layout=compact&hide=jupyter%20notebook&theme=github_dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=breehaqasim&label=Profile%20Views)
+
 
 ## 🌱 Currently Exploring
 - Applied NLP and AI systems  
