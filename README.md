@@ -9,33 +9,34 @@ My experience spans developing a custom **DBMS for KVTC**, contributing to **Ope
 ## 🛠 Languages & Tools
 
 ### Languages
-- [Python](https://www.python.org/)
-- [C++](https://isocpp.org/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [SQL](https://www.w3schools.com/sql/)
-- [C](https://en.wikipedia.org/wiki/C_(programming_language))
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/sql/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Frameworks & Technologies
-- [React.js](https://react.dev/)
-- [Node.js](https://nodejs.org/)
-- [Firebase](https://firebase.google.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Neo4j](https://neo4j.com/)
-- [Prisma](https://www.prisma.io/)
-- [Neon](https://neon.tech/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Verilog](https://www.chipverify.com/verilog/verilog-tutorial)
-- [SDL2](https://www.libsdl.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logoColor=black)](https://neon.tech/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logoColor=white)](https://www.chipverify.com/verilog/verilog-tutorial)
+[![SDL2](https://img.shields.io/badge/SDL2-000000?style=for-the-badge&logoColor=white)](https://www.libsdl.org/)
 
 ### Tools & Design
-- [Git](https://git-scm.com/)
-- [MySQL](https://www.mysql.com/)
-- [Qt Designer](https://doc.qt.io/qt-6/qtdesigner-manual.html)
-- [DB Designer](https://dbdesigner.net/)
-- [Figma](https://www.figma.com/)
-- [Canva](https://www.canva.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Qt Designer](https://img.shields.io/badge/Qt_Designer-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://doc.qt.io/qt-6/qtdesigner-manual.html)
+[![DB Designer](https://img.shields.io/badge/DB_Designer-2E2E2E?style=for-the-badge&logoColor=white)](https://dbdesigner.net/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+
 
 ## 🔥 Featured Projects
 - **Sarcasm Detection using Word Embeddings**  
