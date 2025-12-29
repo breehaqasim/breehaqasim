@@ -38,28 +38,26 @@ My experience spans developing a custom **DBMS for KVTC**, contributing to **Ope
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 
-
-!<--## 🔥 Featured Projects
-- **Sarcasm Detection using Word Embeddings**  
-  Built an NLP pipeline using **Word2Vec, GloVe, and BERT with a BiLSTM architecture** for contextual sentiment analysis on short text data.
-
-- **GDS Bibliographic Graph Project**  
-  Developed a **Neo4j-based pipeline** using GraphML and Cypher to classify journals and predict co-authorship using Linear Regression and Random Forest models.
-
-- **Skincare & Beauty Consultancy Platform**  
-  Created a **React.js + Firebase** platform featuring appointment booking, product listings, and authenticated user flows.
-
-- **Energy-Constrained Drone Navigation**  
-  Designed and evaluated **graph-based pathfinding algorithms** in Python to optimize navigation under energy constraints.-->
-  
 ## 🔥 Featured Projects
 
-[![Sarcasm Detection](https://img.shields.io/badge/Sarcasm_Detection-NLP%20%7C%20BERT-6A5ACD?style=for-the-badge)](https://github.com/breehaqasim/sarcasm-detection-embeddings)
-[![GDS Graph](https://img.shields.io/badge/GDS_Bibliographic_Graph-Neo4j%20%7C%20Cypher-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://github.com/breehaqasim/GDS-Bibliographic-GraphML-Project)
-[![GlowSense](https://img.shields.io/badge/GlowSense-Full--Stack%20%7C%20React-FF69B4?style=for-the-badge)](https://github.com/breehaqasim/GlowSense-Skincare-Beauty-Consultancy-Platform)
-[![Drone Nav](https://img.shields.io/badge/Drone_Navigation-Algorithms%20%7C%20Python-2E8B57?style=for-the-badge)](https://github.com/breehaqasim/Energy-Constrained-Drone-Nav---ADA-Project)
-[![Admission Tracker](https://img.shields.io/badge/Admission_Tracker-DBMS%20%7C%20Python-4682B4?style=for-the-badge)](https://github.com/breehaqasim/University-Admission-Tracker---Database-System)
-[![Pacman Pursuit](https://img.shields.io/badge/Pacman_Pursuit-OOP%20%7C%20C++-000000?style=for-the-badge)](https://github.com/breehaqasim/Pacman-Pursuit---OOP)
+**Sarcasm Detection using Word Embeddings**  
+https://github.com/breehaqasim/sarcasm-detection-embeddings
+
+**GDS Bibliographic Graph Project**  
+https://github.com/breehaqasim/GDS-Bibliographic-GraphML-Project
+
+**GlowSense – Skincare & Beauty Consultancy Platform**  
+https://github.com/breehaqasim/GlowSense-Skincare-Beauty-Consultancy-Platform
+
+**Energy-Constrained Drone Navigation**  
+https://github.com/breehaqasim/Energy-Constrained-Drone-Nav---ADA-Project
+
+**University Admission Tracker System**  
+https://github.com/breehaqasim/University-Admission-Tracker---Database-System
+
+**Pacman Pursuit (OOP, C++)**  
+https://github.com/breehaqasim/Pacman-Pursuit---OOP
+
 
 ## 🏆 Certifications
 - **Neo4j Certified Professional**  
