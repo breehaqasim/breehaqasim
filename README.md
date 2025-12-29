@@ -63,7 +63,10 @@ https://github.com/breehaqasim/Pacman-Pursuit---OOP
 - **Neo4j Certified Professional**  
 - Graph Data Modeling & Cypher – Neo4j  
 - Learn HTML, CSS, JavaScript – Codecademy  
-- Fundamentals of Digital Marketing – Google  
+- Fundamentals of Digital Marketing – Google
+
+## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=breehaqasim&show_icons=true&theme=default)
 
 ## 🌱 Currently Exploring
 - Applied NLP and AI systems  
